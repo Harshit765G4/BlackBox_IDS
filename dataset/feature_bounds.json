@@ -1,0 +1,50 @@
+{
+    "Flow Duration": {
+        "min": 36641.4,
+        "max": 91543105.2
+    },
+    "Total Fwd Packets": {
+        "min": 3.0,
+        "max": 8.0
+    },
+    "Total Backward Packets": {
+        "min": 0.0,
+        "max": 6.0
+    },
+    "Flow Packets/s": {
+        "min": 0.145292475,
+        "max": 214.82623255999988
+    },
+    "Flow Bytes/s": {
+        "min": 2.5910512142,
+        "max": 304955.6108399993
+    },
+    "Fwd Packet Length Mean": {
+        "min": 6.0,
+        "max": 8.666666667
+    },
+    "Bwd Packet Length Mean": {
+        "min": 0.0,
+        "max": 2901.75
+    },
+    "Packet Length Mean": {
+        "min": 6.0,
+        "max": 1454.125
+    },
+    "Flow IAT Mean": {
+        "min": 5339.938095400001,
+        "max": 7500297.8972000005
+    },
+    "Flow IAT Std": {
+        "min": 11620.854236000005,
+        "max": 24200000.0
+    },
+    "SYN Flag Count": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "ACK Flag Count": {
+        "min": 0.0,
+        "max": 1.0
+    }
+}
